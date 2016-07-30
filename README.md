@@ -1,9 +1,9 @@
 # Code for implementing the paper EFFECT OF INJECTED NOISE IN DEEP NEURAL NETWORKS
 
 #Requirements
-python 2.7
-numpy
-scikit-learn
+python 2.7,
+numpy,
+scikit-learn,
 scipy
 
 #Running the code
