@@ -1,23 +1,26 @@
 # Code for implementing the paper EFFECT OF INJECTED NOISE IN DEEP NEURAL NETWORKS
 
-#Requirements
+# Requirements
 python 2.7,
 numpy,
 scikit-learn,
 scipy
 
-#Running the code
+# Running the code
 src folder contains the python scripts.
 The MNIST database can be found in the data folder.
 
 Run the file run_hid_4_network2.py to implement a deep network with 4 hidden layers and 50 neurons in each WITHOUT noise.
+'python run_hid_4_network2.py'
 
 Run the file run_hid_4_network2_aoi.py to implement a deep network with 4 hidden layers and 50 neurons in each with AOI noise.
+'python run_hid_4_network2_aoi.py'
 
 Run the file run_hid_4_network2_aoi_randn.py to implement a deep network with 4 hidden layers and 50 neurons in each with AOI noise with randomness.
+'python run_hid_4_network2_aoi_randn.py'
 
 Run the file run_hid_4_network2_line_noise.py to implement a deep network with 4 hidden layers and 50 neurons in each with line noise.
-
+'python run_hid_4_network2_line_noise.py'
 
 
 
