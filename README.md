@@ -30,7 +30,7 @@ Run the file run_hid_4_network2_line_noise.py to implement a deep network with 4
 
 MIT License
 
-Copyright (c) 2012-2015 Michael Nielsen
+Copyright (c) 2017 Naresh Nagabushan
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
